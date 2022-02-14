@@ -22,7 +22,8 @@
 		"yzhang.markdown-all-in-one",
 		"mutantdino.resourcemonitor",
 		"tomoki1207.pdf",
-		"austin.code-gnu-global"
+		"austin.code-gnu-global",
+		"ms-vscode.hexeditor"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
